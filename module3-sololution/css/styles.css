@@ -1,0 +1,31 @@
+nav li {
+	text-align: center;
+	width: 100%;
+}
+
+/*
+#bs-example-navbar-collapse-1 {
+	background: gray;
+}
+*/
+nav ul hr {
+	margin: 4px;
+	height: 1px;
+}
+
+h2 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	margin-top: 0px;
+}
+
+.inner {
+	background-color: gray;
+	padding: 5px 10px; 
+	margin-bottom: 15px;
+}
+
+
